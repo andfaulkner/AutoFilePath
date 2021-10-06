@@ -3,7 +3,7 @@
         "caption": "AutoFilePath: Default Settings",
         "command": "open_file",
         "args": {
-            "file": "${packages}/AutoFilePath/User/AutoFilePath.sublime-settings",
+            "file": "${packages}/User/AutoFilePath/AutoFilePath.sublime-settings",
         },
     },
     {
